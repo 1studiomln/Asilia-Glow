@@ -1,0 +1,6 @@
+{
+  "name": "Asilia Glow | Luxury Kenyan Skincare",
+  "description": "Pure Radiance Born from Nature. Kenyan luxury hydrating serum infused with rich Marula Oil and Hyaluronic Acid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
